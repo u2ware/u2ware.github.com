@@ -34,6 +34,12 @@
 		</repository>
 	</distributionManagement>
 
+	<repositories>
+		<repository>
+		     <id>u2ware-mvm-repo</id>
+		     <url>https://raw.github.com/u2ware/u2ware.github.com/mvn-repo/</url>
+		 </repository>
+	 </repositories>
 	<dependencies>
 		<!-- 
 		#############################
@@ -78,7 +84,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-			<scope>test</scope>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.hsqldb</groupId>
