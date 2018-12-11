@@ -3,11 +3,12 @@
   <groupId>io.github.u2ware</groupId>
   <artifactId>spring-data-u2ware</artifactId>
   <versioning>
-    <release>1.5.17.RELEASE</release>
+    <release>1.5.18.RELEASE</release>
     <versions>
       <version>1.5.16.RELEASE</version>
       <version>1.5.17.RELEASE</version>
+      <version>1.5.18.RELEASE</version>
     </versions>
-    <lastUpdated>20181121133013</lastUpdated>
+    <lastUpdated>20181211134531</lastUpdated>
   </versioning>
 </metadata>
