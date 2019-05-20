@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.u2ware</groupId>
+  <artifactId>spring-data-rest-specification</artifactId>
+  <versioning>
+    <release>2.1.4.RELEASE</release>
+    <versions>
+      <version>2.1.4.RELEASE</version>
+    </versions>
+    <lastUpdated>20190520075512</lastUpdated>
+  </versioning>
+</metadata>
